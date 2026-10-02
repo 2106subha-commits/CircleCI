@@ -5,7 +5,7 @@ def say_hello(name):
     print(f"name is, {name}")
 
 
-if __name__="__main__":
+if __name__=="__main__":
     name="Yash"
     say_hello(name)
     up=to_upper(name)
